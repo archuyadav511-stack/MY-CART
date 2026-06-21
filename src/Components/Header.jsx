@@ -7,7 +7,7 @@ import {
 
 export default function Header() {
   return (
-    <header className="w-full border-b bg-white px-6 py-4 flex items-center justify-between gap-6">
+    <header className="w-full border-b bg-green-600cd px-6 py-4 flex items-center justify-between gap-6">
       
       {/* Logo */}
       <div className="flex items-center gap-8">
