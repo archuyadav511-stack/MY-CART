@@ -1,5 +1,3 @@
- import React from 'react'
-
 export default function PopularCards() {
   return (
     <div className="mb-8 text-center">
